@@ -4,7 +4,7 @@ repo for the paper **ControlStyle: Text-Driven Stylized Image Generation Using D
 
 :black_square_button: training code implemented in diffusers (WIP)
 
-:black_square_button: convert pre-trained model into diffusers style (WIP)
+:black_square_button: pre-trained model release
 
 :white_check_mark: inference code implemented in diffusers
 
