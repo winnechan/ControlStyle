@@ -2,7 +2,7 @@
 
 repo for the paper **ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors (MM'23)**
 
-:black_square_button: training code implemented in diffusers (TODO)
+:black_square_button: training code implemented in diffusers (WIP)
 
 :black_square_button: convert pre-trained model into diffusers style (WIP)
 
