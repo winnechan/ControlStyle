@@ -9,7 +9,7 @@ repo for the paper **ControlStyle: Text-Driven Stylized Image Generation Using D
 :white_check_mark: inference code implemented in diffusers
 
 ## run inference
-First of all, setting the pre-trained text-to-image diffusion model (sd-v15) and the pre-trained controlstyle model in the bash. Then, having fun with different prompt, controlnet_scale and random seed
+First of all, setting the pre-trained text-to-image diffusion model (sd-v15) and the pre-trained controlstyle model in the bash. Also, different prompt, controlnet_scale and random seed can be set in the bash. Then, 
 ```
 bash test_model.sh
 ```
