@@ -2,9 +2,9 @@
 
 repo for the paper **ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors (MM'23)**
 
-:black_square_button: training code implemented in diffusers (WIP)
+:black_square_button: training code implemented in diffusers
 
-:black_square_button: pre-trained model release
+:black_square_button: pre-trained model release 
 
 :white_check_mark: inference code implemented in diffusers
 
