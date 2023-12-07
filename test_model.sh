@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES=0 python test_model_diffusers.py \
+	--save_dir "test_outputs" \
+    --pretrained_model_name_or_path "models--runwayml--stable-diffusion-v1-5" \
+	--controlnet_model_name_or_path "pretrained_model/controlstyle-sd15/controlnet" \
+    --num_inference_step 25 \
+    --cfg 10.0 \
+    --controlnet_scale 0.7 \
+    --seed 0 \
+	--prompt "a teddy bear sitting on a bench" \
+    --style_data_root "data/style" \
+	--enable_xformers_memory_efficient_attention
